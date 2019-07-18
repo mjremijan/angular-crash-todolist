@@ -7,9 +7,12 @@ Brad. [Traversy Media]. (2019, January 23). Angular Crash Course - 2019 [Video f
 
 TypeScript plugin: <https://github.com/Everlaw/nbts>
 
+Netbeans support didn't work very well. Stick to VSCode.
+
 # Which version?
 
 AngularJS // OLD!
+
 Angular   // Rewrite that covers 2-8++
 
 # Setup commands
