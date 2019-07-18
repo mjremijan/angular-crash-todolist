@@ -2,6 +2,7 @@
 
 Brad. [Traversy Media]. (2019, January 23). Angular Crash Course - 2019 [Video file]. Retrieved from <https://www.youtube.com/watch?v=Fdf5aTYRW0E>
 
+
 # NetBeans 
 
 TypeScript plugin: <https://github.com/Everlaw/nbts>
