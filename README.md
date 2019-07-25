@@ -120,4 +120,25 @@ imports: [
 ]
 ```
 
+# \[(ngModel)\]
+
+When using \<form\>, to use `ngModel` the `FormsModule` needs to be imported.
+
+See `add-todo.component.html`.
+
+Edit `app.modules.ts`.
+
+```text
+import { FormsModule } from '@angular/forms';
+.
+.
+.
+imports: [
+    BrowserModule,
+    AppRoutingModule,
+    HttpClientModule,
+    FormsModule
+  ],
+```
+
 

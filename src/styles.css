@@ -7,3 +7,7 @@ h2 {
     letter-spacing: 1px;
     font-weight: bold;
 }
+
+div.clear {
+    clear:both;
+}
